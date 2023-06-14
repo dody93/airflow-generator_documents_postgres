@@ -1,6 +1,6 @@
 # Generate Bulk Documents Python
 
-It is a python script that generate bulk documents automatically from postgres data using replace concept. It can be used to generate bulk documents like letters, cards and certificates. It read data from an excel sheet and generate multiple documents.
+It is a python script that generate bulk documents automatically from postgres data using replace concept. It can be used to generate bulk documents like letters, cards and certificates. It read data from an data base postgres and generate multiple documents.
 
 
 # Important Note
